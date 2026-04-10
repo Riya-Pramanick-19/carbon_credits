@@ -88,6 +88,7 @@ CDAVHOR3XCAPTU4NVU3TNSWRMW3GZ3OGHOP3IPUNRXXAC6J7MJV35LI5
 
 ## 📷 Screenshots
 <img width="1904" height="891" alt="image" src="https://github.com/user-attachments/assets/fb9d4ac0-f947-44ee-b1e6-295f42cd1fff" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-10 152016" src="https://github.com/user-attachments/assets/03a4f6b4-3e2f-48da-a672-02d80c20659b" />
 
 
 ---
